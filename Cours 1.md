@@ -23,7 +23,6 @@
 
 - Par exemple : https://introtodeeplearning.com/
 
-
 ### Mon premier DNN (Feuille jupyter)
 (cela suppose quelques prerequis sur python...)
 
@@ -34,7 +33,6 @@
 - python :
 - tutoriels Tensorflow : [Tensorflow](https://www.tensorflow.org/tutorials/quickstart/beginner)
 - Un jeu de données "SSL" : https://github.com/bebetocf/ssl-dataset
-
 
 ## Retour sur le challenge technique SSL Vision Blackout
 
@@ -58,10 +56,10 @@ Les incontournables :
    + carte Citron
 1. Détection de balle : plusieurs approches
 1. Mouvements de base pour faciliter notre "navigation" :
-  1. Rotation autour de l’axe du robot : utile rechercher la balle, s'aligner avec une cible, etc.
-  1. Déplacement en ligne : ajuster l'orientation (en fonction d'une erreur dans le déplacement), ajuster la vitesse (en fonction de la distance à la cible) 
-  1. Trajectoire circulaire autour d'un point : permettre au robot de rechercher un but tout en regardant le balle.
-  1. Autres ?
+  - Rotation autour de l’axe du robot : utile rechercher la balle, s'aligner avec une cible, etc.
+  - Déplacement en ligne : ajuster l'orientation (en fonction d'une erreur dans le déplacement), ajuster la vitesse (en fonction de la distance à la cible)
+  - Trajectoire circulaire autour d'un point : permettre au robot de rechercher un but tout en regardant le balle.
+  - Autres ?
    
 Les plus :
 1. Prédire la trajectoire de la balle
@@ -76,7 +74,13 @@ Les plus :
   + Inertial sensors, to implement odometry estimation
   + capteurs inertiels (Accéléromètres, gyroscopes) : pour estimer la position, vitesse ou encore orientation
   + _An STM32F767ZI microcontroller unit (MCU), to receive target relative positions and navigation flags from the Nano and execute low-level control and trajectory estimation using inertial odometry_
+Quelques pointeurs :
+- https://developer.nvidia.com/blog/?p=69294
+- [feuille Jupyter](./Articles/RoboCIn_Small_Size_League_Extended_Team_Descriptio.pdf)
+
 
 - TIGER : méthode proposée sur ?
 
 - NAMeC : que fait-on ?
+
+
