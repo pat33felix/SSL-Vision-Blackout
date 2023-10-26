@@ -26,7 +26,8 @@
 
 ### Mon premier DNN (Feuille jupyter)
 (cela suppose quelques prerequis sur python...)
-DEEP_3.ipynb
+
+- [feuille Jupyter](DEEP_3.ipynb)
 
 ### Quelques liens utiles
 
@@ -78,21 +79,6 @@ Les plus :
   + capteurs inertiels (Accéléromètres, gyroscopes) : pour estimer la position, vitesse ou encore orientation
   + _An STM32F767ZI microcontroller unit (MCU), to receive target relative positions and navigation flags from the Nano and execute low-level control and trajectory estimation using inertial odometry_
 
-- TIGER
+- TIGER : méthode proposée sur ?
 
-
-## Odométrie inertielle
-
-Calculer l’odométrie inertielle du robot en calculant :
-- la cinématique inverse à partir des lectures de l’encodeur, 
-- la trajectoire estimée à l’aide de mesures gyroscopiques combinées à l’odométrie, 
-pour ajuster la trajectoire (alors que les informations de vision intégrées ne sont pas disponibles)
- La figure 4 illustre un aperçu de l'architecture proposée, et nous présentons plus de détails dans [7].
-
-### Quelques idées
-
-#### Découpages
-
-
-
-
+- NAMeC : que fait-on ?
