@@ -74,10 +74,9 @@ Les plus :
   + Inertial sensors, to implement odometry estimation
   + capteurs inertiels (Accéléromètres, gyroscopes) : pour estimer la position, vitesse ou encore orientation
   + _An STM32F767ZI microcontroller unit (MCU), to receive target relative positions and navigation flags from the Nano and execute low-level control and trajectory estimation using inertial odometry_
-Quelques pointeurs :
-- https://developer.nvidia.com/blog/?p=69294
-- [feuille Jupyter](./Articles/RoboCIn_Small_Size_League_Extended_Team_Descriptio.pdf)
-
+  + Quelques pointeurs :
+    - https://developer.nvidia.com/blog/?p=69294
+    - [TDP 2022 Robocin](RoboCIn_Small_Size_League_Extended_Team_Descriptio.pdf)
 
 - TIGER : méthode proposée sur ?
 
