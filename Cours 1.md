@@ -2,7 +2,8 @@
 
 ## Bref aperçu sur les réseaux de neurones
 
-deep.pdf
+- [Les slides](deep.pdf)
+- A regarder : slides et vidéo du MIT (A.Amini) : https://introtodeeplearning.com/
 
 ### Notes de cours (à partir de notes d'Akka Zemmari - PR BM GP PF)
 
@@ -22,12 +23,14 @@ Points à retenir
 
 ### Mon premier DNN (Feuille jupyter)
 (cela suppose quelques prerequis sur python...)
+DEEP_3.ipynb
 
 ### Quelques liens utiles
 
 - python :
-- slides et vidéo du MIT (A.Amini) :
-- tutoriels Tensorflow :
+- tutoriels Tensorflow : [Tensorflow](https://www.tensorflow.org/tutorials/quickstart/beginner)
+- Un jeu de données "SSL" : https://github.com/bebetocf/ssl-dataset
+
 
 ## Retour sur le challenge technique SSL Vision Blackout
 
