@@ -62,14 +62,11 @@ Les incontournables :
   1. Déplacement en ligne : ajuster l'orientation (en fonction d'une erreur dans le déplacement), ajuster la vitesse (en fonction de la distance à la cible) 
   1. Trajectoire circulaire autour d'un point : permettre au robot de rechercher un but tout en regardant le balle.
   1. Autres ?
-
-(liste non exhaustive)
    
 Les plus :
 1. Prédire la trajectoire de la balle
 1. Détection des balles en mouvement (Les balles se déplacent rapidement => flou) : problème si algorithmes basés sur la détection des contours.
-
-(liste non exhaustive)
+  1. Autres ?
 
 ### Des pistes
 
