@@ -68,6 +68,7 @@ Les incontournables :
 Les plus :
 1. Prédire la trajectoire de la balle
 1. Détection des balles en mouvement (Les balles se déplacent rapidement => flou) : problème si algorithmes basés sur la détection des contours.
+
 (liste non exhaustive)
 
 ### Des pistes
