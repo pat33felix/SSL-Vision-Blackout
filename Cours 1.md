@@ -2,24 +2,27 @@
 
 ## Bref aperçu sur les réseaux de neurones
 
-- [Les slides](deep.pdf)
-- A regarder : slides et vidéo du MIT (A.Amini) : https://introtodeeplearning.com/
-
 ### Notes de cours (à partir de notes d'Akka Zemmari - PR BM GP PF)
 
-Points à retenir
-- D’abords il y a le neurone
-- Réseau de neurones
-- Réseaux à plusieurs couches
-- Apprentissage des paramètres
-- Couche de sortie
-- Exemple : reconnaissance d’écriture
-- Données d’entrainement
-- Objectif de l’entrainement
-- Fonction de perte (Loss Function)
-- Apprentissage ?
-- Descente du gradiant
-- A la recherche de la meilleure fonction
+- [Les slides](deep.pdf)
+- Points à retenir
+  - D’abords il y a le neurone
+  - Réseau de neurones
+  - Réseaux à plusieurs couches
+  - Apprentissage des paramètres
+  - Couche de sortie
+  - Exemple : reconnaissance d’écriture
+  - Données d’entrainement
+  - Objectif de l’entrainement
+  - Fonction de perte (Loss Function)
+  - Apprentissage ?
+  - Descente du gradiant
+  - A la recherche de la meilleure fonction
+
+### Slides et vidéos du MIT (A.Amini)...
+
+- Par exemple : https://introtodeeplearning.com/
+
 
 ### Mon premier DNN (Feuille jupyter)
 (cela suppose quelques prerequis sur python...)
