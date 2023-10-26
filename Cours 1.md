@@ -52,12 +52,12 @@ Comment :
 
 Les incontournables :
 1. Microprocesseurs séparés pour la vision embarquée et le contrôle du robot.
-1. Communication entre les microprocesseurs
+1. Communication entre les microprocesseurs (Quentin, Caetano)
    + câble Ethernet
    + port USB
    + carte Citron
-1. Détection de balle : plusieurs approches
-1. Mouvements de base pour faciliter notre "navigation" :
+1. Détection de balle : plusieurs approches (Justin, Caetano)
+1. Mouvements de base pour faciliter notre "navigation" : (Clément)
   1. Rotation autour de l’axe du robot : utile rechercher la balle, s'aligner avec une cible, etc.
   1. Déplacement en ligne : ajuster l'orientation (en fonction d'une erreur dans le déplacement), ajuster la vitesse (en fonction de la distance à la cible) 
   1. Trajectoire circulaire autour d'un point : permettre au robot de rechercher un but tout en regardant le balle.
